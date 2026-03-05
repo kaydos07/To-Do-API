@@ -1,0 +1,15 @@
+
+.env
+
+
+venv/
+env/
+
+
+__pycache__/
+*.pyc
+
+
+db.sqlite3
+
+to_do_api-env/
